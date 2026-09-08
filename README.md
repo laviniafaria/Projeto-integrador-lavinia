@@ -5,5 +5,6 @@ Aplicação para cadastro e listagem de destinos turísticos, com back-end em Sp
 ## Endpoints
 
 | Método | Rota      | Descrição            |
+|--------|-----------|------------------------|
 | GET    | /destinos | Lista os destinos      |
 | POST   | /destinos | Cadastra um destino    |
